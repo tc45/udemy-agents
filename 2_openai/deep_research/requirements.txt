@@ -3,3 +3,4 @@ python-dotenv>=1.0.0
 openai>=1.68.2
 pydantic>=2.0.0
 sendgrid>=6.10.0
+openai-agents>=0.0.15
